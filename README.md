@@ -2,7 +2,7 @@
 
 <h2>Current education 📚</h2>
 
-> 💻Webdeveloper
+> Bachelor in Webdeveloper 💻
 
 <br/>
 
