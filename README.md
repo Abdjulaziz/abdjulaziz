@@ -1,5 +1,4 @@
 <h1 style="text-align:center">Hi there 👋 my name is Abdulaziz.</h1>  
-<br/>
 
 <h2>Current education 📚</h2>
 
