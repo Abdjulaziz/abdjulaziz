@@ -1,10 +1,27 @@
 <h1 style="text-align:center">Hi there 👋 my name is Abdulaziz.</h1>  
 <br/>
-<h2>Education</h2>
-<ul>
-  <li>🖌Multimedia Designer</li>
-  <li>💻Webdeveloper</li>
-</ul>
+
+<h2>Current education 📚</h2>
+
+> 💻Webdeveloper
+
+<br/>
+
+<h2>Languages i have worked with</h2>
+
+> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
+<h2>Work time 💻</h2>
+<br/>
 
 <!--START_SECTION:waka-->
 ```text
@@ -14,52 +31,3 @@ JavaScript   9 mins          ██░░░░░░░░░░░░░░░
 Vue.js       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<style>
-  body
-	background: #18191A
-	color: #fff
-	font-family: 'Roboto', sans-serif
-	padding: 0 3rem
-
-ol.style_1
-	counter-reset: li
-	padding-left: 2.5rem
-	padding: .25rem 0 .25rem 2.75rem
-	small
-		opacity: .3
-	ol, ul
-		padding: .75rem 0 0 1.5rem
-	li
-		margin-bottom: .375rem
-	> li
-		position: relative
-		counter-increment: li
-		min-height: 2rem
-		padding-top: .5rem
-		list-style: none
-
-		&::before, &::after
-			position: absolute
-			display: flex
-			opacity: 0.35
-
-		&::before
-			content: counter(li)
-			left: - 2.75rem
-			top: 0
-			height: calc(2rem - 1px)
-			width: calc(2rem - 1px)
-			align-items: center
-			justify-content: center
-			border-radius: 50%
-			border: 1px solid currentcolor
-
-		&::after
-			content: ''
-			left: -1.75rem
-			top: calc(2rem + 1px)
-			height: calc(100% - 2.5rem)
-			border-left: 1px solid currentcolor
-</style>
