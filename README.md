@@ -1,6 +1,10 @@
-<h1 style="text-align:center">Hi there my 👋 my name is Abdulaziz. Im a student at UCL Odense done studying Multimediadesign and taking a bachelor in Web Development 💻</h1>  
+<h1 style="text-align:center">Hi there 👋 my name is Abdulaziz.</h1>  
 <br/>
-
+<h2>Education</h2>
+<ul>
+  <li>🖌Multimedia Designer</li>
+  <li>💻Webdeveloper</li>
+</ul>
 
 <!--START_SECTION:waka-->
 ```text
