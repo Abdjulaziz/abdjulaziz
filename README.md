@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML      7 mins          ████████████████▓░░░░░░░░   67.07 %
-CSHTML   3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
