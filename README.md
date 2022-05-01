@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         13 mins         █████████████░░░░░░░░░░░░   51.96 %
-Vue.js       11 mins         ███████████▒░░░░░░░░░░░░░   45.58 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
