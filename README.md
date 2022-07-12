@@ -30,9 +30,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
+<div style="align="center"">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdjulaziz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>              
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
