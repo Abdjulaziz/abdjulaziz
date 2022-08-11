@@ -39,7 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SCSS         3 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.96 %
+CSHTML       44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Vue.js       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+JavaScript   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+LESS         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
