@@ -53,6 +53,5 @@ Other    16 mins         >>>>>>>>>----------------   37.45 %
 
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdjulaziz&layout=compact)](https://github.com/Abdjulaziz?tab=repositories)
           
 
