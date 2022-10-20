@@ -43,11 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
-
-Total Time: 13 mins
-
-Other   8 mins          >>>>>>>>>>>>>>>>---------   62.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
