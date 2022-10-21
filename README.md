@@ -43,7 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 October 2022 - To: 19 October 2022
+
+Total Time: 6 mins
+
+CSHTML       3 mins          >>>>>>>>>>>>>>-----------   55.96 %
+C#           1 min           >>>>---------------------   17.76 %
+Vue.js       1 min           >>>>---------------------   15.59 %
+JavaScript   0 secs          >>>----------------------   10.69 %
 ```
 
 <!--END_SECTION:waka-->
