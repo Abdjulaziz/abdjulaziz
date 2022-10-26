@@ -43,13 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-Total Time: 10 hrs 31 mins
+Total Time: 15 hrs 18 mins
 
-Vue.js       3 hrs 48 mins   >>>>>>>>>----------------   36.13 %
-CSHTML       2 hrs 34 mins   >>>>>>-------------------   24.40 %
-Other        1 hr 31 mins    >>>>---------------------   14.44 %
+Vue.js        4 hrs 19 mins   >>>>>>>------------------   28.32 %
+JavaScript    3 hrs 8 mins    >>>>>--------------------   20.54 %
+CSHTML        2 hrs 38 mins   >>>>---------------------   17.30 %
+Other         2 hrs 32 mins   >>>>---------------------   16.64 %
 ```
 
 <!--END_SECTION:waka-->
