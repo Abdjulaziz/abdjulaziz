@@ -35,7 +35,7 @@
 
 <h3>↑↑↑If i can think of more i will add it 😉↑↑↑</h3>
 <br>
-<h2>Currently interning @  <img src="https://avatars.githubusercontent.com/u/1419552?s=200&v=4" width="26" height="26" alt="Italian Trulli"></h2>
+<h2>Currently Student heler @  <img src="https://avatars.githubusercontent.com/u/1419552?s=200&v=4" width="26" height="26" alt="Italian Trulli"></h2>
 <br>
 <h2>Work time 💻</h2>
 <br/>
