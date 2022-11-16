@@ -43,13 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 12 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Total Time: 7 mins
+Total Time: 5 mins
 
-Markdown     5 mins          >>>>>>>>>>>>>>>>>--------   68.74 %
-JSON         2 mins          >>>>>>>------------------   26.26 %
-JavaScript   0 secs          >------------------------   05.00 %
+Markdown   5 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
