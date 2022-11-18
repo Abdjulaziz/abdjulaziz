@@ -32,8 +32,6 @@
 > ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 > ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-
-<h3>↑↑↑If i can think of more i will add it 😉↑↑↑</h3>
 <br>
 <h2>Work time 💻</h2>
 <br/>
