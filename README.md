@@ -39,7 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 December 2022 - To: 08 December 2022
+
+Total Time: 1 hr 38 mins
+
+JavaScript   1 hr 18 mins    >>>>>>>>>>>>>>>>>>>>-----   79.47 %
+Markdown     11 mins         >>>----------------------   11.37 %
+Git Config   6 mins          >>-----------------------   06.28 %
+JSON         2 mins          >------------------------   02.88 %
 ```
 
 <!--END_SECTION:waka-->
