@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Total Time: 6 hrs 26 mins
+Total Time: 7 hrs 32 mins
 
-JavaScript   5 hrs 22 mins   >>>>>>>>>>>>>>>>>>>>>----   83.43 %
-JSON         38 mins         >>>----------------------   10.04 %
-Other        12 mins         >------------------------   03.14 %
+JavaScript   6 hrs 19 mins   >>>>>>>>>>>>>>>>>>>>>----   83.92 %
+JSON         45 mins         >>>----------------------   10.11 %
+Other        13 mins         >------------------------   03.08 %
 ```
 
 <!--END_SECTION:waka-->
