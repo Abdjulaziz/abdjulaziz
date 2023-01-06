@@ -39,14 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-Total Time: 8 hrs 57 mins
+Total Time: 16 hrs 51 mins
 
-JavaScript   8 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.99 %
-JSON         16 mins         >------------------------   03.00 %
-Git Config   0 secs          -------------------------   00.01 %
-Markdown     0 secs          -------------------------   00.00 %
+JavaScript   16 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.39 %
+JSON         16 mins         -------------------------   01.59 %
+Other        0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
