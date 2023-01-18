@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 January 2023 - To: 15 January 2023
+From: 09 January 2023 - To: 16 January 2023
 
-Total Time: 16 mins
+Total Time: 2 hrs 20 mins
 
-JSON         16 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.29 %
-JavaScript   0 secs          -------------------------   01.58 %
-Other        0 secs          -------------------------   00.13 %
+JavaScript   2 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.39 %
+JSON         16 mins         >>>----------------------   11.60 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
