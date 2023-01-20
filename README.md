@@ -1,8 +1,15 @@
-<h1 style="text-align:center">Hi there 👋 my name is Abdulaziz.</h1>  
+<h1 style="text-align:center">Hi there 👋 Abdulaziz here</h1>  
 
-<h2>Current education 📚</h2>
+<h2>Education📚</h2>
 
-> <h3>Bachelor in Webdevelopment 💻</h3>
+> <h3>AP in Multimediadesign</h3>
+> <h3>Bachelor in Webdevelopment</h3>
+
+<br/>
+
+<h2>Work 👨‍💻</h2>
+
+> <h3>Part of SWAT @ UMBRACO</h3>
 
 <br/>
 
