@@ -9,7 +9,7 @@
 
 <h2>Work 👨‍💻</h2>
 
-> <h3>Part of SWAT @ UMBRACO</h3>
+> <h3>Working @ UMBRACO</h3>
 
 <br/>
 
