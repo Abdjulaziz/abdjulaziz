@@ -49,11 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Total Time: 1 hr 16 mins
+Total Time: 55 mins
 
-Other        48 mins         >>>>>>>>>>>>>>>>---------   62.87 %
+Other        39 mins         >>>>>>>>>>>>>>>>>>-------   70.34 %
 ```
 
 <!--END_SECTION:waka-->
