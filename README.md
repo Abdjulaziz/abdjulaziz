@@ -49,15 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-Text         1 min           >>>>>>>>>>>>>------------   50.64 %
-C#           1 min           >>>>>>>>>----------------   35.10 %
-CSHTML       0 secs          >>-----------------------   08.97 %
-Other        0 secs          >------------------------   03.02 %
-JavaScript   0 secs          -------------------------   01.26 %
+Other        0 secs          >>>>>>>>>>>>>>-----------   57.02 %
+JavaScript   0 secs          >>>>>>-------------------   23.72 %
+ASP.NET      0 secs          >>>>>--------------------   19.26 %
 ```
 
 <!--END_SECTION:waka-->
