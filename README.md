@@ -49,11 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-Total Time: 1 min
+Total Time: 1 hr 5 mins
 
-JSON   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+HTML    59 mins         >>>>>>>>>>>>>>>>>>>>>>>--   91.27 %
+Other   4 mins          >>-----------------------   06.70 %
+JSON    1 min           >------------------------   02.03 %
 ```
 
 <!--END_SECTION:waka-->
