@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 1 hr
+Total Time: 1 hr 2 mins
 
-CSHTML   27 mins         >>>>>>>>>>>>-------------   46.02 %
-Other    17 mins         >>>>>>>------------------   29.57 %
-JSON     14 mins         >>>>>>-------------------   24.41 %
+CSHTML   27 mins         >>>>>>>>>>>--------------   44.65 %
+Other    19 mins         >>>>>>>>-----------------   31.66 %
+JSON     14 mins         >>>>>>-------------------   23.69 %
 ```
 
 <!--END_SECTION:waka-->
