@@ -49,11 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 0 secs
+Total Time: 10 mins
 
-No activity tracked
+JSON   5 mins          >>>>>>>>>>>>>>-----------   56.98 %
+C#     4 mins          >>>>>>>>>>>--------------   43.02 %
 ```
 
 <!--END_SECTION:waka-->
