@@ -49,12 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
-Total Time: 10 mins
+Total Time: 37 mins
 
-JSON   5 mins          >>>>>>>>>>>>>>-----------   56.98 %
-C#     4 mins          >>>>>>>>>>>--------------   43.02 %
+HTML         8 mins          >>>>>>-------------------   23.98 %
+CSS          8 mins          >>>>>>-------------------   23.34 %
+JSON         7 mins          >>>>>--------------------   20.17 %
+Vue.js       6 mins          >>>>>--------------------   18.30 %
+C#           4 mins          >>>----------------------   11.95 %
 ```
 
 <!--END_SECTION:waka-->
