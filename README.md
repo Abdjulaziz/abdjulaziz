@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2023 - To: 03 August 2023
+From: 28 July 2023 - To: 04 August 2023
 
-Total Time: 1 hr 32 mins
+Total Time: 1 hr 14 mins
 
-Binary       48 mins         >>>>>>>>>>>>>------------   52.05 %
-Other        15 mins         >>>>---------------------   16.21 %
-JSON         13 mins         >>>>---------------------   14.37 %
-CSHTML       12 mins         >>>----------------------   13.34 %
-C#           3 mins          >------------------------   03.85 %
+Binary       48 mins         >>>>>>>>>>>>>>>>---------   65.17 %
+JSON         13 mins         >>>>---------------------   17.99 %
+CSHTML       12 mins         >>>>---------------------   16.70 %
+C#           0 secs          -------------------------   00.12 %
+AutoHotkey   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
