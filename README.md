@@ -49,13 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 0 secs
+Total Time: 17 mins
 
-C#      0 secs          >>>>>>>>>>>>>>>>>>>>-----   80.78 %
-XML     0 secs          >>>>---------------------   15.10 %
-Other   0 secs          >------------------------   04.12 %
+Other   14 mins         >>>>>>>>>>>>>>>>>>>>-----   81.56 %
+JSON    2 mins          >>>>---------------------   14.60 %
+C#      0 secs          >------------------------   03.07 %
+XML     0 secs          -------------------------   00.57 %
+Text    0 secs          -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
