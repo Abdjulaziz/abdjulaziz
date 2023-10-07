@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Total Time: 18 mins
+Total Time: 1 hr 14 mins
 
-Assembly   5 mins          >>>>>>>>-----------------   30.23 %
-SWIG       3 mins          >>>>>--------------------   20.57 %
-XML        3 mins          >>>>>--------------------   19.02 %
-C#         3 mins          >>>>---------------------   16.29 %
-JSON       2 mins          >>>----------------------   13.90 %
+Assembly         33 mins         >>>>>>>>>>>--------------   44.60 %
+Objective-C      13 mins         >>>>>--------------------   18.11 %
+JSON             11 mins         >>>>---------------------   14.73 %
+SWIG             3 mins          >------------------------   05.15 %
+XML              3 mins          >------------------------   04.87 %
 ```
 
 <!--END_SECTION:waka-->
