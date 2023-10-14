@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 1 hr 33 mins
+Total Time: 1 hr 4 mins
 
-Assembly         36 mins         >>>>>>>>>>---------------   39.24 %
-JSON             19 mins         >>>>>--------------------   20.53 %
-Objective-C      13 mins         >>>>---------------------   14.45 %
-XML              10 mins         >>>----------------------   11.60 %
-ASP.NET          5 mins          >>-----------------------   06.29 %
+XML           19 mins         >>>>>>>------------------   29.73 %
+JSON          11 mins         >>>>---------------------   17.07 %
+Assembly      9 mins          >>>>---------------------   14.01 %
+C#            9 mins          >>>----------------------   13.93 %
+ASP.NET       5 mins          >>-----------------------   09.10 %
 ```
 
 <!--END_SECTION:waka-->
