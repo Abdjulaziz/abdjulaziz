@@ -49,11 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-Total Time: 32 mins
+Total Time: 55 mins
 
-Markdown   32 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown   32 mins         >>>>>>>>>>>>>>>----------   58.34 %
+Binary     15 mins         >>>>>>>------------------   27.78 %
+YAML       7 mins          >>>----------------------   13.88 %
 ```
 
 <!--END_SECTION:waka-->
