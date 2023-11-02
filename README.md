@@ -49,14 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Total Time: 1 hr 13 mins
+Total Time: 1 hr 9 mins
 
-Markdown   38 mins         >>>>>>>>>>>>>------------   52.95 %
-Binary     26 mins         >>>>>>>>>----------------   36.31 %
-YAML       7 mins          >>>----------------------   10.59 %
-XML        0 secs          -------------------------   00.15 %
+Binary     51 mins         >>>>>>>>>>>>>>>>>>>------   74.37 %
+YAML       7 mins          >>>----------------------   11.15 %
+Markdown   6 mins          >>-----------------------   08.90 %
+JSON       3 mins          >------------------------   05.42 %
+XML        0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
