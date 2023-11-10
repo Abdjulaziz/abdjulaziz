@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-Total Time: 2 hrs 29 mins
+Total Time: 2 hrs 55 mins
 
-Binary   58 mins         >>>>>>>>>>---------------   39.11 %
-C#       55 mins         >>>>>>>>>----------------   36.93 %
-XML      21 mins         >>>>---------------------   14.08 %
-CSHTML   13 mins         >>-----------------------   09.35 %
-Other    0 secs          -------------------------   00.54 %
+Binary     1 hr 3 mins     >>>>>>>>>----------------   36.27 %
+C#         55 mins         >>>>>>>>-----------------   31.49 %
+XML        21 mins         >>>----------------------   12.00 %
+Markdown   20 mins         >>>----------------------   11.81 %
+CSHTML     13 mins         >>-----------------------   07.97 %
 ```
 
 <!--END_SECTION:waka-->
