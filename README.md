@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 3 hrs 1 min
+Total Time: 2 hrs 41 mins
 
-Binary   1 hr 46 mins    >>>>>>>>>>>>>>>----------   58.75 %
-C#       52 mins         >>>>>>>------------------   28.99 %
-CSHTML   22 mins         >>>----------------------   12.24 %
+Binary   1 hr 38 mins    >>>>>>>>>>>>>>>----------   61.37 %
+C#       41 mins         >>>>>>-------------------   25.88 %
+CSHTML   20 mins         >>>----------------------   12.72 %
 JSON     0 secs          -------------------------   00.02 %
 ```
 
