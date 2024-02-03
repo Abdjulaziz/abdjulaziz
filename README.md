@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 3 hrs 11 mins
+Total Time: 3 hrs 44 mins
 
-Binary   1 hr 6 mins     >>>>>>>>>----------------   34.76 %
-CSHTML   54 mins         >>>>>>>------------------   28.30 %
-C#       37 mins         >>>>>--------------------   19.68 %
-CSS      24 mins         >>>----------------------   12.72 %
-XML      3 mins          -------------------------   01.84 %
+Binary   1 hr 9 mins     >>>>>>>>-----------------   31.01 %
+C#       1 hr 7 mins     >>>>>>>>-----------------   30.08 %
+CSHTML   54 mins         >>>>>>-------------------   24.17 %
+CSS      24 mins         >>>----------------------   10.86 %
+XML      3 mins          -------------------------   01.57 %
 ```
 
 <!--END_SECTION:waka-->
