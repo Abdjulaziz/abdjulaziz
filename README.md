@@ -45,7 +45,7 @@
 > ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 > ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 > ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Umbraco' src='https://img.shields.io/badge/Umbraco-100000?style=for-the-badge&logo=Umbraco&logoColor=white&labelColor=3544B1&color=3544B1'/></a>
+> ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=Umbraco&logoColor=F5C1BC)
 
 <br>
 <h2>Work time 💻</h2>
