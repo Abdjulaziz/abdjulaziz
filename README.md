@@ -54,14 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Total Time: 10 mins
+Total Time: 22 mins
 
-XML          4 mins          >>>>>>>>>----------------   37.51 %
-CSS          3 mins          >>>>>>>>-----------------   30.57 %
-JavaScript   2 mins          >>>>>>>------------------   26.02 %
-HTML         0 secs          >------------------------   05.90 %
+Binary       11 mins         >>>>>>>>>>>>>------------   50.94 %
+XML          4 mins          >>>>>--------------------   18.40 %
+CSS          3 mins          >>>>---------------------   15.00 %
+JavaScript   2 mins          >>>----------------------   12.77 %
+HTML         0 secs          >------------------------   02.89 %
 ```
 
 <!--END_SECTION:waka-->
