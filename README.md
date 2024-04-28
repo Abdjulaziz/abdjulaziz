@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 25 April 2024
+From: 19 April 2024 - To: 26 April 2024
 
-Total Time: 2 hrs 30 mins
+Total Time: 3 hrs 29 mins
 
-HTML         1 hr 53 mins    >>>>>>>>>>>>>>>>>>>------   74.92 %
-Binary       21 mins         >>>>---------------------   14.44 %
-JSON         14 mins         >>-----------------------   09.88 %
-Other        0 secs          -------------------------   00.36 %
-CSS          0 secs          -------------------------   00.21 %
+HTML     2 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>>----   82.17 %
+Binary   21 mins         >>>----------------------   10.41 %
+JSON     14 mins         >>-----------------------   07.13 %
+Other    0 secs          -------------------------   00.26 %
+CSS      0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
