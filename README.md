@@ -54,11 +54,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Total Time: 1 min
+Total Time: 23 mins
 
-Markdown   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Binary     10 mins         >>>>>>>>>>>--------------   45.17 %
+C#         8 mins          >>>>>>>>>----------------   36.83 %
+Text       2 mins          >>-----------------------   09.52 %
+Markdown   1 min           >>-----------------------   08.48 %
 ```
 
 <!--END_SECTION:waka-->
