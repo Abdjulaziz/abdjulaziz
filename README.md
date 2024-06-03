@@ -54,13 +54,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Total Time: 1 hr 22 mins
+Total Time: 33 mins
 
-HTML     49 mins         >>>>>>>>>>>>>>>----------   59.55 %
-C#       18 mins         >>>>>--------------------   21.98 %
-Binary   15 mins         >>>>>--------------------   18.47 %
+C#       18 mins         >>>>>>>>>>>>>>-----------   54.33 %
+Binary   15 mins         >>>>>>>>>>>--------------   45.67 %
 ```
 
 <!--END_SECTION:waka-->
