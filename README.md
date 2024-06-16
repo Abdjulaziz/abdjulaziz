@@ -54,14 +54,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
 Total Time: 1 hr 10 mins
 
-Binary   51 mins         >>>>>>>>>>>>>>>>>>-------   72.76 %
-Other    19 mins         >>>>>>>------------------   27.15 %
+Binary   51 mins         >>>>>>>>>>>>>>>>>>-------   72.79 %
+Other    19 mins         >>>>>>>------------------   27.16 %
 XML      0 secs          -------------------------   00.05 %
-JSON     0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
