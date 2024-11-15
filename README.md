@@ -54,14 +54,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 53 mins
+Total Time: 22 mins
 
-Binary   38 mins         >>>>>>>>>>>>>>>>>>-------   70.79 %
-XML      11 mins         >>>>>>-------------------   22.02 %
-Other    2 mins          >------------------------   04.67 %
-JSON     1 min           >------------------------   02.52 %
+Binary   17 mins         >>>>>>>>>>>>>>>>>>>>-----   80.22 %
+XML      3 mins          >>>>---------------------   14.76 %
+JSON     1 min           >------------------------   05.02 %
 ```
 
 <!--END_SECTION:waka-->
