@@ -54,11 +54,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 30 December 2024 - To: 06 January 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 7 mins
 
-No activity tracked
+C#       2 hrs 23 mins   >>>>>>>>>>>>>>>>>>>------   76.23 %
+Binary   27 mins         >>>>---------------------   14.79 %
+XML      12 mins         >>-----------------------   06.72 %
+JSON     4 mins          >------------------------   02.26 %
 ```
 
 <!--END_SECTION:waka-->
