@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Total Time: 6 hrs 17 mins
+Total Time: 9 hrs 59 mins
 
-C#           4 hrs 1 min     >>>>>>>>>>>>>>>>---------   64.06 %
-Binary       2 hrs 8 mins    >>>>>>>>>----------------   34.01 %
-JSON         3 mins          -------------------------   00.99 %
-Git Config   2 mins          -------------------------   00.67 %
-XML          0 secs          -------------------------   00.22 %
+C#           6 hrs 1 min     >>>>>>>>>>>>>>>----------   60.21 %
+Binary       3 hrs 46 mins   >>>>>>>>>----------------   37.68 %
+JSON         4 mins          -------------------------   00.80 %
+XML          3 mins          -------------------------   00.63 %
+Git Config   2 mins          -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
