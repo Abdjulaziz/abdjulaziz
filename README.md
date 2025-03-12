@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Total Time: 9 mins
+Total Time: 5 mins
 
-Binary    5 mins          >>>>>>>>>>>>>>>----------   58.78 %
-JSON      2 mins          >>>>>>>------------------   26.88 %
-XML       0 secs          >>>----------------------   10.25 %
-Other     0 secs          >------------------------   02.86 %
-ASP.NET   0 secs          -------------------------   01.14 %
+Binary    3 mins          >>>>>>>>>>>>>>>>---------   62.63 %
+XML       0 secs          >>>>>--------------------   18.57 %
+JSON      0 secs          >>>----------------------   11.39 %
+Other     0 secs          >------------------------   05.19 %
+ASP.NET   0 secs          >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
