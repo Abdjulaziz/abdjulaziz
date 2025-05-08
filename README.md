@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-Total Time: 12 hrs 7 mins
+Total Time: 9 hrs 39 mins
 
-TypeScript   8 hrs 29 mins   >>>>>>>>>>>>>>>>>>-------   70.06 %
-Binary       2 hrs 16 mins   >>>>>--------------------   18.70 %
-CSS          39 mins         >------------------------   05.36 %
-JSON         21 mins         >------------------------   02.93 %
-XML          8 mins          -------------------------   01.23 %
+TypeScript   6 hrs 12 mins   >>>>>>>>>>>>>>>>---------   64.26 %
+Binary       2 hrs 5 mins    >>>>>--------------------   21.63 %
+CSS          39 mins         >>-----------------------   06.74 %
+JSON         21 mins         >------------------------   03.67 %
+XML          8 mins          -------------------------   01.55 %
 ```
 
 <!--END_SECTION:waka-->
