@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Total Time: 5 hrs 26 mins
+Total Time: 24 mins
 
-TypeScript   4 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.59 %
-Binary       22 mins         >>-----------------------   06.95 %
-CSS          8 mins          >------------------------   02.68 %
-JavaScript   2 mins          -------------------------   00.77 %
-C#           1 min           -------------------------   00.43 %
+TypeScript   18 mins         >>>>>>>>>>>>>>>>>>>------   76.64 %
+C#           2 mins          >>>----------------------   10.74 %
+XML          2 mins          >>-----------------------   09.18 %
+Binary       0 secs          >------------------------   02.34 %
+CSS          0 secs          -------------------------   01.10 %
 ```
 
 <!--END_SECTION:waka-->
