@@ -54,14 +54,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 28 mins
+Total Time: 31 mins
 
-Binary   18 mins         >>>>>>>>>>>>>>>>---------   63.83 %
-XML      10 mins         >>>>>>>>>----------------   35.74 %
-JSON     0 secs          -------------------------   00.31 %
-C#       0 secs          -------------------------   00.13 %
+Binary   21 mins         >>>>>>>>>>>>>>>>>--------   68.00 %
+XML      10 mins         >>>>>>>>-----------------   31.57 %
+JSON     0 secs          -------------------------   00.27 %
+C#       0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
