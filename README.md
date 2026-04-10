@@ -54,13 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 1 hr 8 mins
+Total Time: 4 hrs 55 mins
 
-TypeScript   50 mins               >>>>>>>>>>>>>>>>>>>------   74.32 %
-JSON         16 mins               >>>>>>-------------------   24.09 %
-XML          1 min                 -------------------------   01.59 %
+TypeScript   4 hrs 33 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.49 %
+JSON         20 mins               >>-----------------------   06.84 %
+XML          1 min                 -------------------------   00.37 %
+JavaScript   0 secs                -------------------------   00.30 %
+Other        0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
