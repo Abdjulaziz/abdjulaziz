@@ -1,9 +1,9 @@
-<h1 style="text-align:center">Hi there 👋 Abdulaziz here</h1>  
+<h1 style="text-align:center">Hi there 👋</h1>  
 
 <h2>Education📚</h2>
 
 > <h3>AP in Multimediadesign</h3>
-> <h3>Bachelor in Webdevelopment</h3>
+> <h3>Bachelor of Web Development</h3>
 
 <br/>
 
@@ -46,22 +46,4 @@
 > ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 > ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 > ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=Umbraco&logoColor=F5C1BC)
-
-<br>
-<h2>Work time 💻</h2>
-<br/>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 17 October 2026 - To: 24 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-          
 
